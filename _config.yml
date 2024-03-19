@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "kor"
+locale                   : "en-Us"
 title                    : "개발일지"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "JiminKing"
+name                     : "jimin0"
 description              : "Hello world."
 url                      : "https://jimin0.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
